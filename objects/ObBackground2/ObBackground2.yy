@@ -27,7 +27,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
     "name": "mountainsReversed",
     "path": "sprites/mountainsReversed/mountainsReversed.yy",

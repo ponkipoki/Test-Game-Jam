@@ -61,7 +61,6 @@
     {"id":{"name":"sprPlayer_trudger_legup","path":"sprites/sprPlayer_trudger_legup/sprPlayer_trudger_legup.yy",},},
     {"id":{"name":"sprPlayer_trudger_leftanimation2","path":"sprites/sprPlayer_trudger_leftanimation2/sprPlayer_trudger_leftanimation2.yy",},},
     {"id":{"name":"Radio","path":"objects/Radio/Radio.yy",},},
-    {"id":{"name":"warper","path":"objects/warper/warper.yy",},},
     {"id":{"name":"trudgemaster_movingright","path":"sequences/trudgemaster_movingright/trudgemaster_movingright.yy",},},
     {"id":{"name":"sprPlayer_trudger_rightanimation","path":"sprites/sprPlayer_trudger_rightanimation/sprPlayer_trudger_rightanimation.yy",},},
     {"id":{"name":"sprPlayer_trudger_left_legup","path":"sprites/sprPlayer_trudger_left_legup/sprPlayer_trudger_left_legup.yy",},},
