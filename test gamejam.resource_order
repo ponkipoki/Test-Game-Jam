@@ -27,6 +27,7 @@
   "ResourceOrderSettings": [
     {"name":"mountainsReversed","order":18,"path":"sprites/mountainsReversed/mountainsReversed.yy",},
     {"name":"ObBackground3","order":3,"path":"objects/ObBackground3/ObBackground3.yy",},
+    {"name":"Menu","order":7,"path":"objects/Menu/Menu.yy",},
     {"name":"trudgemaster_standing","order":2,"path":"sequences/trudgemaster_standing/trudgemaster_standing.yy",},
     {"name":"mountainsReversedConnected","order":24,"path":"sprites/mountainsReversedConnected/mountainsReversedConnected.yy",},
     {"name":"sprPlayer_trudger_standing3","order":2,"path":"sprites/sprPlayer_trudger_standing3/sprPlayer_trudger_standing3.yy",},
@@ -63,12 +64,12 @@
     {"name":"sprPlayer_trudger_legup2","order":6,"path":"sprites/sprPlayer_trudger_legup2/sprPlayer_trudger_legup2.yy",},
     {"name":"mountains","order":17,"path":"sprites/mountains/mountains.yy",},
     {"name":"eyes_big","order":3,"path":"sprites/eyes_big/eyes_big.yy",},
+    {"name":"instructions_filled","order":25,"path":"sprites/instructions_filled/instructions_filled.yy",},
     {"name":"trudgemaster_standing2","order":3,"path":"sequences/trudgemaster_standing2/trudgemaster_standing2.yy",},
     {"name":"trudgemaster_movingrightTest","order":1,"path":"sequences/trudgemaster_movingrightTest/trudgemaster_movingrightTest.yy",},
     {"name":"static1","order":3,"path":"sounds/static1/static1.yy",},
     {"name":"sprPlayer_trudger_legback","order":1,"path":"sprites/sprPlayer_trudger_legback/sprPlayer_trudger_legback.yy",},
     {"name":"warper","order":6,"path":"objects/warper/warper.yy",},
-    {"name":"intructions","order":19,"path":"sprites/intructions/intructions.yy",},
     {"name":"instructions","order":23,"path":"sprites/instructions/instructions.yy",},
   ],
 }
