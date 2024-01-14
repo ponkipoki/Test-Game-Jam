@@ -13,3 +13,8 @@ if place_meeting(-1180, 276, ObBackground3)
 	ObBackground3.x = 594;
 	ObBackground3.y = 0;
 }
+if  place_meeting(1759, 276, ObBackground3)
+{
+	ObBackground3.x = -594;
+	ObBackground3.y = 0;
+}
