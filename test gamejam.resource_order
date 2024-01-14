@@ -42,6 +42,7 @@
     {"name":"sprPlayer_trudger_legup","order":5,"path":"sprites/sprPlayer_trudger_legup/sprPlayer_trudger_legup.yy",},
     {"name":"sprPlayer_trudger_leftanimation2","order":6,"path":"sprites/sprPlayer_trudger_leftanimation2/sprPlayer_trudger_leftanimation2.yy",},
     {"name":"Radio","order":4,"path":"objects/Radio/Radio.yy",},
+    {"name":"warper","order":5,"path":"objects/warper/warper.yy",},
     {"name":"sprPlayer_trudger_rightanimation","order":1,"path":"sprites/sprPlayer_trudger_rightanimation/sprPlayer_trudger_rightanimation.yy",},
     {"name":"sprPlayer_trudger_left_legup","order":4,"path":"sprites/sprPlayer_trudger_left_legup/sprPlayer_trudger_left_legup.yy",},
     {"name":"sprPlayer_trudger_left_legup2","order":5,"path":"sprites/sprPlayer_trudger_left_legup2/sprPlayer_trudger_left_legup2.yy",},
