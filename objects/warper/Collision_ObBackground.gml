@@ -6,8 +6,8 @@
 //ObBackground.x = 0 - 594;
 //ObBackground.y = 0 - 332;
 
-if place_meeting(-594, -332, ObBackground2)
+if place_meeting(-1180, 276, ObBackground)
 {
-	ObBackground2.x = 594;
-	ObBackground2.y = 332;
+	ObBackground.x = 594;
+	ObBackground.y = 0;
 }

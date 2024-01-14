@@ -11,5 +11,5 @@
 if place_meeting(-1180, 276, ObBackground3)
 {
 	ObBackground3.x = 594;
-	ObBackground3.y = 332;
+	ObBackground3.y = 0;
 }
