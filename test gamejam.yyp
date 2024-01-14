@@ -43,6 +43,7 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"ObGameOver_control","path":"objects/ObGameOver_control/ObGameOver_control.yy",},},
     {"id":{"name":"mountainsReversed","path":"sprites/mountainsReversed/mountainsReversed.yy",},},
     {"id":{"name":"ObBackground3","path":"objects/ObBackground3/ObBackground3.yy",},},
     {"id":{"name":"trudgemaster_standing","path":"sequences/trudgemaster_standing/trudgemaster_standing.yy",},},
@@ -64,6 +65,8 @@
     {"id":{"name":"sprPlayer_trudger_leftanimation2","path":"sprites/sprPlayer_trudger_leftanimation2/sprPlayer_trudger_leftanimation2.yy",},},
     {"id":{"name":"Radio","path":"objects/Radio/Radio.yy",},},
     {"id":{"name":"trudgemaster_movingright","path":"sequences/trudgemaster_movingright/trudgemaster_movingright.yy",},},
+    {"id":{"name":"ObGameOver","path":"objects/ObGameOver/ObGameOver.yy",},},
+    {"id":{"name":"gameOver","path":"sprites/gameOver/gameOver.yy",},},
     {"id":{"name":"sprPlayer_trudger_rightanimation","path":"sprites/sprPlayer_trudger_rightanimation/sprPlayer_trudger_rightanimation.yy",},},
     {"id":{"name":"sprPlayer_trudger_left_legup","path":"sprites/sprPlayer_trudger_left_legup/sprPlayer_trudger_left_legup.yy",},},
     {"id":{"name":"sprPlayer_trudger_left_legup2","path":"sprites/sprPlayer_trudger_left_legup2/sprPlayer_trudger_left_legup2.yy",},},

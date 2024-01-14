@@ -2,6 +2,7 @@
 // You can write your code in this editor
 
 instance_destroy(obEye);
+_appear_status = false;
 
 _continue_game = true;
 
