@@ -42,7 +42,6 @@
     {"name":"sprPlayer_trudger_rightanimation","order":1,"path":"sprites/sprPlayer_trudger_rightanimation/sprPlayer_trudger_rightanimation.yy",},
     {"name":"sprPlayer_trudger_left_legup","order":4,"path":"sprites/sprPlayer_trudger_left_legup/sprPlayer_trudger_left_legup.yy",},
     {"name":"sprPlayer_trudger_left_legup2","order":5,"path":"sprites/sprPlayer_trudger_left_legup2/sprPlayer_trudger_left_legup2.yy",},
-    {"name":"warp","order":20,"path":"sprites/warp/warp.yy",},
     {"name":"sprPlayer_trudger_legforward","order":3,"path":"sprites/sprPlayer_trudger_legforward/sprPlayer_trudger_legforward.yy",},
     {"name":"sprPlayer_trudger_standing2","order":1,"path":"sprites/sprPlayer_trudger_standing2/sprPlayer_trudger_standing2.yy",},
     {"name":"eyes_squint","order":2,"path":"sprites/eyes_squint/eyes_squint.yy",},
@@ -58,6 +57,5 @@
     {"name":"trudgemaster_standing2","order":3,"path":"sequences/trudgemaster_standing2/trudgemaster_standing2.yy",},
     {"name":"trudgemaster_movingrightTest","order":1,"path":"sequences/trudgemaster_movingrightTest/trudgemaster_movingrightTest.yy",},
     {"name":"sprPlayer_trudger_legback","order":1,"path":"sprites/sprPlayer_trudger_legback/sprPlayer_trudger_legback.yy",},
-    {"name":"intructions","order":19,"path":"sprites/intructions/intructions.yy",},
   ],
 }
