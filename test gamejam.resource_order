@@ -53,11 +53,16 @@
     {"name":"eyes_green_yellow","order":1,"path":"sprites/eyes_green_yellow/eyes_green_yellow.yy",},
     {"name":"sprPlayer_trudger_standing2Animation","order":2,"path":"sprites/sprPlayer_trudger_standing2Animation/sprPlayer_trudger_standing2Animation.yy",},
     {"name":"sprPlayer_trudger_legup2","order":6,"path":"sprites/sprPlayer_trudger_legup2/sprPlayer_trudger_legup2.yy",},
+    {"name":"footsteps","order":2,"path":"sounds/footsteps/footsteps.yy",},
     {"name":"mountains","order":17,"path":"sprites/mountains/mountains.yy",},
     {"name":"eyes_big","order":3,"path":"sprites/eyes_big/eyes_big.yy",},
     {"name":"trudgemaster_standing2","order":3,"path":"sequences/trudgemaster_standing2/trudgemaster_standing2.yy",},
     {"name":"trudgemaster_movingrightTest","order":1,"path":"sequences/trudgemaster_movingrightTest/trudgemaster_movingrightTest.yy",},
     {"name":"sprPlayer_trudger_legback","order":1,"path":"sprites/sprPlayer_trudger_legback/sprPlayer_trudger_legback.yy",},
+<<<<<<< HEAD
     {"name":"intructions","order":19,"path":"sprites/intructions/intructions.yy",},
+=======
+    {"name":"Wind","order":1,"path":"sounds/Wind/Wind.yy",},
+>>>>>>> 501199a4801b94400c1efb81d73d486685b322b3
   ],
 }
