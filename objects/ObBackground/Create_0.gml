@@ -1,8 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
 
-
-/// Player Movement
+/// @description Player Movement 
+//(player controls the back ground)
 
 xspeed = 0; // horizontal keys
 yspeed = 0; // vertical keys
