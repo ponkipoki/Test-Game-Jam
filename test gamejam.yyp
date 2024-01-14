@@ -90,6 +90,7 @@
     {"id":{"name":"trudgemaster_movingrightTest","path":"sequences/trudgemaster_movingrightTest/trudgemaster_movingrightTest.yy",},},
     {"id":{"name":"sprPlayer_trudger_legback","path":"sprites/sprPlayer_trudger_legback/sprPlayer_trudger_legback.yy",},},
     {"id":{"name":"intructions","path":"sprites/intructions/intructions.yy",},},
+    {"id":{"name":"instructions","path":"sprites/instructions/instructions.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

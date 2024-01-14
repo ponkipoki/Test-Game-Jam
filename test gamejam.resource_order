@@ -64,5 +64,6 @@
     {"name":"trudgemaster_movingrightTest","order":1,"path":"sequences/trudgemaster_movingrightTest/trudgemaster_movingrightTest.yy",},
     {"name":"sprPlayer_trudger_legback","order":1,"path":"sprites/sprPlayer_trudger_legback/sprPlayer_trudger_legback.yy",},
     {"name":"intructions","order":19,"path":"sprites/intructions/intructions.yy",},
+    {"name":"instructions","order":23,"path":"sprites/instructions/instructions.yy",},
   ],
 }
