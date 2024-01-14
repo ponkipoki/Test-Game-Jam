@@ -62,6 +62,7 @@
     {"id":{"name":"sprPlayer_trudger_rightanimation","path":"sprites/sprPlayer_trudger_rightanimation/sprPlayer_trudger_rightanimation.yy",},},
     {"id":{"name":"sprPlayer_trudger_left_legup","path":"sprites/sprPlayer_trudger_left_legup/sprPlayer_trudger_left_legup.yy",},},
     {"id":{"name":"sprPlayer_trudger_left_legup2","path":"sprites/sprPlayer_trudger_left_legup2/sprPlayer_trudger_left_legup2.yy",},},
+    {"id":{"name":"warp","path":"sprites/warp/warp.yy",},},
     {"id":{"name":"sprPlayer_trudger_legforward","path":"sprites/sprPlayer_trudger_legforward/sprPlayer_trudger_legforward.yy",},},
     {"id":{"name":"eyes_placeholder","path":"sprites/eyes_placeholder/eyes_placeholder.yy",},},
     {"id":{"name":"obPlayer_trudger","path":"objects/obPlayer_trudger/obPlayer_trudger.yy",},},
@@ -83,6 +84,7 @@
     {"id":{"name":"trudgemaster_standing2","path":"sequences/trudgemaster_standing2/trudgemaster_standing2.yy",},},
     {"id":{"name":"trudgemaster_movingrightTest","path":"sequences/trudgemaster_movingrightTest/trudgemaster_movingrightTest.yy",},},
     {"id":{"name":"sprPlayer_trudger_legback","path":"sprites/sprPlayer_trudger_legback/sprPlayer_trudger_legback.yy",},},
+    {"id":{"name":"intructions","path":"sprites/intructions/intructions.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
