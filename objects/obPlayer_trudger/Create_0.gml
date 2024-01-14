@@ -5,3 +5,4 @@
 
 //movement_speed = 1; // player speed
 
+audio_play_sound(Snd_radiosong,1,true);
