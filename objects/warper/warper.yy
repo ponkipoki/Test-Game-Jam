@@ -1,10 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "ObBackground3",
+  "name": "warper",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"ObBackground","path":"objects/ObBackground/ObBackground.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"ObBackground2","path":"objects/ObBackground2/ObBackground2.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"ObBackground3","path":"objects/ObBackground3/ObBackground3.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +31,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "mountainsReversed",
-    "path": "sprites/mountainsReversed/mountainsReversed.yy",
+    "name": "warp",
+    "path": "sprites/warp/warp.yy",
   },
   "spriteMaskId": null,
   "visible": true,

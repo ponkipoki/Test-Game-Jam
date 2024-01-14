@@ -75,7 +75,6 @@
     {"id":{"name":"Wind","path":"sounds/Wind/Wind.yy",},},
     {"id":{"name":"sprPlayer_trudger_left_legback","path":"sprites/sprPlayer_trudger_left_legback/sprPlayer_trudger_left_legback.yy",},},
     {"id":{"name":"eyes_squint","path":"sprites/eyes_squint/eyes_squint.yy",},},
-    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"sprPlayer_trudger_legforward2","path":"sprites/sprPlayer_trudger_legforward2/sprPlayer_trudger_legforward2.yy",},},
     {"id":{"name":"eyes_cat","path":"sprites/eyes_cat/eyes_cat.yy",},},
     {"id":{"name":"sprPlayer_trudger_standing4","path":"sprites/sprPlayer_trudger_standing4/sprPlayer_trudger_standing4.yy",},},
@@ -91,12 +90,13 @@
     {"id":{"name":"trudgemaster_movingrightTest","path":"sequences/trudgemaster_movingrightTest/trudgemaster_movingrightTest.yy",},},
     {"id":{"name":"static1","path":"sounds/static1/static1.yy",},},
     {"id":{"name":"sprPlayer_trudger_legback","path":"sprites/sprPlayer_trudger_legback/sprPlayer_trudger_legback.yy",},},
+    {"id":{"name":"warper","path":"objects/warper/warper.yy",},},
     {"id":{"name":"intructions","path":"sprites/intructions/intructions.yy",},},
     {"id":{"name":"instructions","path":"sprites/instructions/instructions.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"first_level_thesnowpits","path":"rooms/first_level_thesnowpits/first_level_thesnowpits.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"first_level_thesnowpits","path":"rooms/first_level_thesnowpits/first_level_thesnowpits.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [
