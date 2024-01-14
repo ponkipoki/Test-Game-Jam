@@ -79,17 +79,12 @@
     {"id":{"name":"eyes_green_yellow","path":"sprites/eyes_green_yellow/eyes_green_yellow.yy",},},
     {"id":{"name":"sprPlayer_trudger_standing2Animation","path":"sprites/sprPlayer_trudger_standing2Animation/sprPlayer_trudger_standing2Animation.yy",},},
     {"id":{"name":"sprPlayer_trudger_legup2","path":"sprites/sprPlayer_trudger_legup2/sprPlayer_trudger_legup2.yy",},},
-    {"id":{"name":"footsteps","path":"sounds/footsteps/footsteps.yy",},},
     {"id":{"name":"mountains","path":"sprites/mountains/mountains.yy",},},
     {"id":{"name":"eyes_big","path":"sprites/eyes_big/eyes_big.yy",},},
     {"id":{"name":"trudgemaster_standing2","path":"sequences/trudgemaster_standing2/trudgemaster_standing2.yy",},},
     {"id":{"name":"trudgemaster_movingrightTest","path":"sequences/trudgemaster_movingrightTest/trudgemaster_movingrightTest.yy",},},
     {"id":{"name":"sprPlayer_trudger_legback","path":"sprites/sprPlayer_trudger_legback/sprPlayer_trudger_legback.yy",},},
-<<<<<<< HEAD
     {"id":{"name":"intructions","path":"sprites/intructions/intructions.yy",},},
-=======
-    {"id":{"name":"Wind","path":"sounds/Wind/Wind.yy",},},
->>>>>>> 501199a4801b94400c1efb81d73d486685b322b3
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
