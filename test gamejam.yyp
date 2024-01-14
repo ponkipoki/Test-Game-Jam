@@ -94,8 +94,11 @@
     {"id":{"name":"sprPlayer_trudger_legback","path":"sprites/sprPlayer_trudger_legback/sprPlayer_trudger_legback.yy",},},
     {"id":{"name":"intructions","path":"sprites/intructions/intructions.yy",},},
     {"id":{"name":"instructions","path":"sprites/instructions/instructions.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
-  "RoomOrderNodes": [],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
   "templateType": "game",
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
