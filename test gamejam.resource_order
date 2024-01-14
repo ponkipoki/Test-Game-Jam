@@ -28,6 +28,7 @@
     {"name":"mountainsReversed","order":18,"path":"sprites/mountainsReversed/mountainsReversed.yy",},
     {"name":"ObBackground3","order":3,"path":"objects/ObBackground3/ObBackground3.yy",},
     {"name":"trudgemaster_standing","order":2,"path":"sequences/trudgemaster_standing/trudgemaster_standing.yy",},
+    {"name":"mountainsReversedConnected","order":24,"path":"sprites/mountainsReversedConnected/mountainsReversedConnected.yy",},
     {"name":"sprPlayer_trudger_standing3","order":2,"path":"sprites/sprPlayer_trudger_standing3/sprPlayer_trudger_standing3.yy",},
     {"name":"ObBackground2","order":2,"path":"objects/ObBackground2/ObBackground2.yy",},
     {"name":"footsteps","order":2,"path":"sounds/footsteps/footsteps.yy",},

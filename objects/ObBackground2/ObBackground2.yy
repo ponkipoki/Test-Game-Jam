@@ -29,8 +29,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "mountainsReversed",
-    "path": "sprites/mountainsReversed/mountainsReversed.yy",
+    "name": "mountainsReversedConnected",
+    "path": "sprites/mountainsReversedConnected/mountainsReversedConnected.yy",
   },
   "spriteMaskId": null,
   "visible": true,
