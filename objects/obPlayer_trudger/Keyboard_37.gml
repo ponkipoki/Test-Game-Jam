@@ -6,4 +6,22 @@ if(object_get_sprite(obPlayer_trudger) != sprite_index && keyboard_check_pressed
 
 
 
+//I'm going to add footsteps sound
+
+
+if  sprite_index = sprPlayer_trudger_leftanimation2
+
+{
+   
+
+    if audio_is_playing(footsteps)
+    {
+    }
+    else
+    {
+        audio_play_sound(footsteps, 3, false);
+    }
+	
+}
+
 
