@@ -44,8 +44,10 @@
   },
   "resources": [
     {"id":{"name":"mountainsReversed","path":"sprites/mountainsReversed/mountainsReversed.yy",},},
+    {"id":{"name":"ObBackground3","path":"objects/ObBackground3/ObBackground3.yy",},},
     {"id":{"name":"trudgemaster_standing","path":"sequences/trudgemaster_standing/trudgemaster_standing.yy",},},
     {"id":{"name":"sprPlayer_trudger_standing3","path":"sprites/sprPlayer_trudger_standing3/sprPlayer_trudger_standing3.yy",},},
+    {"id":{"name":"ObBackground2","path":"objects/ObBackground2/ObBackground2.yy",},},
     {"id":{"name":"sprPlayer_trudger_left_legforward2","path":"sprites/sprPlayer_trudger_left_legforward2/sprPlayer_trudger_left_legforward2.yy",},},
     {"id":{"name":"eyes_greenRed","path":"sprites/eyes_greenRed/eyes_greenRed.yy",},},
     {"id":{"name":"Test_snowymountains","path":"sprites/Test_snowymountains/Test_snowymountains.yy",},},
@@ -65,6 +67,7 @@
     {"id":{"name":"sprPlayer_trudger_standing2","path":"sprites/sprPlayer_trudger_standing2/sprPlayer_trudger_standing2.yy",},},
     {"id":{"name":"sprPlayer_trudger_left_legback","path":"sprites/sprPlayer_trudger_left_legback/sprPlayer_trudger_left_legback.yy",},},
     {"id":{"name":"eyes_squint","path":"sprites/eyes_squint/eyes_squint.yy",},},
+    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"sprPlayer_trudger_legforward2","path":"sprites/sprPlayer_trudger_legforward2/sprPlayer_trudger_legforward2.yy",},},
     {"id":{"name":"eyes_cat","path":"sprites/eyes_cat/eyes_cat.yy",},},
     {"id":{"name":"sprPlayer_trudger_standing4","path":"sprites/sprPlayer_trudger_standing4/sprPlayer_trudger_standing4.yy",},},
