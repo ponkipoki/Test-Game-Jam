@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Test_snowymountains",
-    "path": "sprites/Test_snowymountains/Test_snowymountains.yy",
+    "name": "mountains",
+    "path": "sprites/mountains/mountains.yy",
   },
   "spriteMaskId": null,
   "visible": true,
